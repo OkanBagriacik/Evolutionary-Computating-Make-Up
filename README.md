@@ -3,4 +3,5 @@ Buying and selling stocks is a very interesting thing. Because stocks can make i
 
 Portfolio optimization method is one of the areas that attract the most attention and arouse curiosity in the financial field. Mathematicians and statisticians have regularly tried to find the ideal solution on this topic. This optimization method has been possible since the use of the genetic algorithm. A model was developed using specific stock market data.
 
-![1*mbL6SPfQkKmBME9UjXCaiw](https://user-images.githubusercontent.com/48045619/123409859-582ce200-d5b7-11eb-941e-e083819ef140.png)
+![0103-6513-prod-30-e20190144-gf02](https://user-images.githubusercontent.com/48045619/123410221-bbb70f80-d5b7-11eb-8ddf-78635938afa2.jpg)
+
